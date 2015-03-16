@@ -6,4 +6,5 @@ puts "Sleeping for 5 seconds"
 1..5.each do |i|
   puts "#{i}..."
   sleep 1
+end
 puts "Finished"
