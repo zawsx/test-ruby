@@ -33,7 +33,7 @@ GEM
     net-http-persistent (3.1.0)
       connection_pool (~> 2.2)
     nokogiri (1.10.4)
-      mini_portile2 (~> 2.4.0)
+      mini_portile2 (~> 2.0)
     ntlm-http (0.1.1)
     sqlite3 (1.4.1)
     sqlite_magic (0.0.6)
