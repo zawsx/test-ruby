@@ -6,6 +6,7 @@ GIT
     scraperwiki (3.0.1)
       httpclient
       sqlite_magic
+## me
 
 GEM
   remote: https://rubygems.org/
